@@ -1,0 +1,47 @@
+ul
+	{list-style-type: none;
+	margin: 0;
+	padding-right: 50;
+	width: 200px;
+	background-color: grey;}
+
+li a { 
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;}
+
+.classWithClass{
+	font-style: italic;
+}
+
+h1{
+	font-size: 32px;
+	font-weight:bold;
+	color:white;
+	text-align: center;
+}
+body{
+	background-image: url("contact.png");
+}
+a:link {
+	color: white;
+}
+									
+
+a:visited {
+	color: purple;
+}
+
+
+a:hover {
+	color: grey; background-color: black;
+}
+
+
+a:active {
+	color: yellow;
+}
+
+.BigBoy{
+	font-weight: bold
+}

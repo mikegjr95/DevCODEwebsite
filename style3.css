@@ -1,0 +1,60 @@
+/*.projectList{
+	list-style-type: none;
+	margin:0
+	padding-right: 50;
+	width: 200px;
+	background-color: grey;
+
+
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	font-style: italic;
+}*/
+ul
+	{list-style-type: none;
+	margin: 0;
+	padding-right: 50;
+	width: 200px;
+	background-color: grey;}
+
+li a { 
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;}
+
+.projectList{
+	font-style: italic;
+}
+body{
+	background-image: url("projectsbackground.jpg");
+}
+h1{
+	text-decoration: underline overline wavy black;
+	font-size: 32px;
+	font-weight:bold;
+	color:red;
+	text-align: center;
+}
+a:link {
+	color: black;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+	color: darkgrey; background-color: black;
+}
+a:active {
+	color: yellow;
+}
+
+.BigBoy{
+	font-weight: bold
+}
+.projectA{
+	 font-size: 40;
+	 font-style:italic;
+	 color:green;
+}
+

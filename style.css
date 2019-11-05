@@ -1,0 +1,47 @@
+ul
+	{list-style-type: none;
+	margin: 0;
+	padding-right: 50;
+	width: 200px;
+	background-color: grey;}
+
+li a { 
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;}
+
+.classWithClass{
+	font-style: italic;
+}
+body{
+	background-image: url("screen-0.jpg");
+}
+h1{
+	text-decoration: underline overline wavy black;
+	font-size: 32px;
+	font-weight:bold;
+	color:green;
+	text-align: center;
+}
+a:link {
+	color: black;
+}
+									
+
+a:visited {
+	color: purple;
+}
+
+
+a:hover {
+	color: darkgrey; background-color: black;
+}
+
+
+a:active {
+	color: yellow;
+}
+
+.BigBoy{
+	font-weight: bold
+}
